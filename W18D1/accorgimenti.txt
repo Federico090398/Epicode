@@ -1,0 +1,3 @@
+possiamo notare che con il firewall attivo,nmap ci mostra che 993 porte sono filtrate o chiuse ,ci consiglia quindi di provare -Pn.
+Il Firewall quindi blocca delle porte da scansioni esterne,per bloccare altre porte non ci resta che impostare il firewall più accuratamente
+
